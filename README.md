@@ -6,8 +6,11 @@ Gravitational wave astronomy has opened new windows for the detection of theoret
 
 ## Content: 
 
-- init.ini : configuration file for bilby_pipe 
-- gps.txt : gps time of the candidate event in the LIGO-Virgo O3b observation run.
+Config_files:
+  - GSTLAL_O3_122sec_16cpus_config_complete.ini : configuration file for bilby_pipe 
+  - gps.txt : gps time of the candidate event in the LIGO-Virgo O3b observation run.  
+
+Result_Files: corner plots and result files for the candidate.
+
 - MergeAndVizualise.py : visualize corner plots and 1D marginalized posterior distribution from the results of bilby_pipe.
 - PlotSkyMap.py : plot the sky map to localize the trigger.
-- Result_Files: corner plots and result files for the candidate. 
