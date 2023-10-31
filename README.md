@@ -14,3 +14,5 @@ Config_files:
 
 Result_File: 
 The summary page for the results can be found on https://ldas-jobs.ligo.caltech.edu/~marine.prunier/
+webdir_SSM200308 corresponds to the summary page for the joint H1L1V1 parameter estimation of the candidate. 
+webdir_coherence corresponds to the summary pages for the coherence analysis : H1L1V1 + H1, L1, V1 alone. 
