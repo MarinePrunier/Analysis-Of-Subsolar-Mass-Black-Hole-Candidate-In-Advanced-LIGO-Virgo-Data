@@ -1,5 +1,5 @@
 # Analysis-Of-Subsolar-Mass-Black-Hole-Candidate-In-Advanced-LIGO-Virgo-Data
-Complete Bayesian parameter estimation of a gravitational wave candidate event in LIGO-Virgo O3b data using BILBY PIPE. 
+Complete Bayesian parameter estimation of a subsolar mass compact coalescence candidate event in LIGO-Virgo O3b data using BILBY PIPE. 
 
 ## Abstract 
 
@@ -13,9 +13,9 @@ Config_files:
   - BayesWave config file to generate PSD
 
 Result_File: 
-The summary page for the results can be found on https://ldas-jobs.ligo.caltech.edu/~marine.prunier/
+The summary pages for the results can be found on https://ldas-jobs.ligo.caltech.edu/~marine.prunier/
 
-    webdir_SSM200308 https://ldas-jobs.ligo.caltech.edu/~marine.prunier/webdir_SSM200308/home.html corresponds to the summary page for the joint H1L1V1 parameter estimation of the candidate. 
+webdir_SSM200308 https://ldas-jobs.ligo.caltech.edu/~marine.prunier/webdir_SSM200308/home.html corresponds to the summary page for the joint H1L1V1 parameter estimation of the candidate. 
 
-    webdir_coherence https://ldas-jobs.ligo.caltech.edu/~marine.prunier/webdir_coherence/home.html corresponds to the summary pages for the coherence analysis : H1L1V1 + H1, L1, V1 alone. 
+webdir_coherence https://ldas-jobs.ligo.caltech.edu/~marine.prunier/webdir_coherence/home.html corresponds to the summary pages for the coherence analysis : H1L1V1 + H1, L1, V1 alone. 
     
